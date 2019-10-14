@@ -158,7 +158,6 @@ git push
 
        git push --set-upstream origin 要提交的分支名
 
-
   2.删除远程分支：
 
    git push origin :要删除的分支名
@@ -183,7 +182,6 @@ git push
 
 
   5.如何利用git协作完成项目：git flow
-
 
   协作流程：http://www.ruanyifeng.com/blog/2015/12/git-workflow.html
   git远程操作:http://www.ruanyifeng.com/blog/2014/06/git_remote.html
