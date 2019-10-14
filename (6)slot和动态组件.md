@@ -2,7 +2,6 @@
 
    组件基本构成：template,script,style
 
-
 ## 组件slot:
 
  封装一个组件通常包括三个要素：
