@@ -163,7 +163,6 @@ git push
 
    git push origin :要删除的分支名
 
-
   3.tag管理：即版本管理
 
    查看tag: git tag

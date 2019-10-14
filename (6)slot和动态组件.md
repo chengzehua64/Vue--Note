@@ -5,7 +5,6 @@
 ## 组件slot:
 
  封装一个组件通常包括三个要素：
-
     1.props
     2.事件
     3.slot：vue官方文档：https://cn.vuejs.org/v2/guide/components-slots.html
